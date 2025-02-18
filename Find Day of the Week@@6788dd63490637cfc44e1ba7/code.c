@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main({
+int main(){
     int dayn;
     scanf("%d",&dayn);
     switch(dayn){
