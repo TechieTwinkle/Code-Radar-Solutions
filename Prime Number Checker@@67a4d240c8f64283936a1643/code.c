@@ -10,7 +10,6 @@
 int main(){
     int t;
     scanf("%d",&t);
-    fact_count=isPrime(num)
     while(t--){
         int num;
         scanf("%d",&num);
